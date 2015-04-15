@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AkhilChoudhari/URL-Shortner-MongoDB"
+    "url": "https://github.com/AkhilChoudhari/Assignment-8"
   },
   "keywords": [
     "Nodejs_MongoDB"
@@ -24,7 +24,7 @@
   "author": "AKHIL",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AkhilChoudhari/URL-Shortner-MongoDB"
+    "url": "https://github.com/AkhilChoudhari/Assignment-8"
   },
-  "homepage": "https://github.com/AkhilChoudhari/URL-Shortner-MongoDB"
+  "homepage": "https://github.com/AkhilChoudhari/Assignment-8"
 }
