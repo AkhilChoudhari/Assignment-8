@@ -1,0 +1,30 @@
+{
+  "name": "Assignment-8:URL shortner using MongoDB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.12.2",
+    "shortid": "^2.2.2",
+    "express": "^4.12.3",
+    "mongodb": "^2.0.27"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AkhilChoudhari/URL-Shortner-MongoDB"
+  },
+  "keywords": [
+    "Nodejs_MongoDB"
+  ],
+  "author": "AKHIL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkhilChoudhari/URL-Shortner-MongoDB"
+  },
+  "homepage": "https://github.com/AkhilChoudhari/URL-Shortner-MongoDB"
+}
